@@ -15,9 +15,7 @@ Welcome to my GitHub profile! I’m passionate about building innovative and eff
 - 👨‍🏫 **Teaching**: I regularly share my knowledge through tech blogs, mentor junior developers, and engage with tech students.
 - 💬 **Ask Me About**: Backend development, RESTful APIs, project architecture, and problem-solving techniques.
 - 🌎 **Open to Collaborate**: I love connecting with fellow developers on meaningful projects!
-- 📄 **Download My Resume**: [Resume Link]<a href="https://drive.google.com/uc?id=YOUR_FILE_ID" target="_blank" style="display:inline-block; padding:10px 20px; font-size:16px; color:white; background-color:#28a745; border-radius:5px; text-decoration:none; border: none; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">Download My Resume</a>
-
-
+- 📄 **Download My Resume**: [Resume Link](https://drive.google.com/uc?id=1abcD2EfghijkLmnOpqr3stuVWXyZ)
 
 
 ---
