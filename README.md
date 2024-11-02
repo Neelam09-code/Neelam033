@@ -42,18 +42,6 @@ Welcome to my GitHub profile! I’m passionate about building innovative and eff
 
 ---
 
-### 📬 How to Reach Me
-
-Let's connect! Feel free to reach out for collaborations, discussions, or just to say hello.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelam-yadav-882076207/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:yaduvanshineelam09@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=internet-explorer&logoColor=white)](https://neelamyadav.com)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@yaduvanshineelam09)
-
-
----
-
 ### 📚 Latest Blog Posts
 
 I love writing tutorials and sharing my knowledge. Here are some recent articles:
@@ -69,10 +57,10 @@ I love writing tutorials and sharing my knowledge. Here are some recent articles
 
 Let's connect! Feel free to reach out for collaborations, discussions, or just to say hello.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/neelamyadav)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:neelam@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelam-yadav-882076207/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:yaduvanshineelam09@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=internet-explorer&logoColor=white)](https://neelamyadav.com)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@neelamyadav)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@yaduvanshineelam09)
 
 ---
 ### ⚡ Fun Fact
