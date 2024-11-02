@@ -1,6 +1,6 @@
 # Hi there, I'm Neelam Yadav! 👋
 
-![Banner](https://your-banner-image-link-here.com) <!-- replace with link to your banner image -->
+<p align=" full"> <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" /> <!-- replace with link to your banner image -->
 
 ### 👩‍💻 Full Stack Developer | 🐍 Python & Django Specialist | 💡 Lifelong Learner
 
