@@ -20,11 +20,13 @@ Welcome to my GitHub profile! I’m passionate about building innovative and eff
 
 ### 🛠️ Tech Stack
 
-| Language       | Frameworks & Libraries | Tools & Platforms     |
-|----------------|------------------------|------------------------|
-| **Python**     | Django, Flask, FastAPI | Docker, Git, GitHub   |
-| **JavaScript** | React, Node.js         | Nginx, VS Code, Linux |
-| **SQL**        | PostgreSQL, MySQL      | AWS, REST APIs        |
+| Language         | Frameworks & Libraries                     | Tools & Platforms               |
+|------------------|--------------------------------------------|---------------------------------|
+| **Python**       | Django, Flask, FastAPI                     | Docker, Git, GitHub             |
+| **JavaScript**   | React, Node.js                             | Nginx, VS Code, Linux           |
+| **Frontend**     | HTML, CSS, JavaScript, Bootstrap, Tailwind CSS | Chrome DevTools, Postman, Figma |
+| **SQL**          | PostgreSQL, MySQL                          | AWS, REST APIs                  |
+| **NoSQL**        | MongoDB                                    | Firebase, Supabase              |
 
 ---
 
@@ -40,13 +42,14 @@ Welcome to my GitHub profile! I’m passionate about building innovative and eff
 
 ---
 
-### 🔥 Key Projects
+### 📬 How to Reach Me
 
-Check out some of my favorite projects, showcasing different areas of my expertise:
+Let's connect! Feel free to reach out for collaborations, discussions, or just to say hello.
 
-- **[E-commerce Platform](https://github.com/NeelamYadav/e-commerce-platform)** - A full-stack app using Django and React with authentication, product management, and payment integration.
-- **[RESTful API Service](https://github.com/NeelamYadav/restful-api-service)** - An API built with FastAPI, handling complex data processing, secure endpoints, and rate-limiting.
-- **[Portfolio Website](https://github.com/NeelamYadav/portfolio-website)** - A personal website to showcase my work, featuring an interactive, responsive design.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/neelamyadav)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:neelam@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=internet-explorer&logoColor=white)](https://neelamyadav.com)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)][(https://medium.com/@neelamyadav)](https://medium.com/@yaduvanshineelam09)
 
 ---
 
@@ -68,9 +71,9 @@ Let's connect! Feel free to reach out for collaborations, discussions, or just t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/neelamyadav)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:neelam@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=internet-explorer&logoColor=white)](https://neelamyadav.com)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@neelamyadav)
 
 ---
-
 ### ⚡ Fun Fact
 
 > When I’m not coding, you can find me exploring new tech gadgets, binge-watching sci-fi shows, or trying out new recipes in the kitchen!
