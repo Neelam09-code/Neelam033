@@ -10,12 +10,37 @@ Welcome to my GitHub profile! I’m passionate about building innovative and eff
 
 ### 🚀 About Me
 
-- 🌱 **Currently Learning**: Advanced **Data Structures and Algorithms**, deepening my **Flask** expertise.
+- 🌱 **Currently Learning**: Machine Learning, while deepening my knowledge in **Data Structures and Algorithms** and enhancing my **Flask** expertise.
 - 🔭 **Building**: An **e-commerce platform** using Django & React.
-- 👨‍🏫 **Teaching**: Regularly share knowledge with tech students, mentor juniors, and write tech blogs.
-- 💬 **Ask Me About**: Backend development, RESTful APIs, and project architecture.
-- 🌎 **Open to Collaborate**: Love connecting with other developers on meaningful projects!
+- 👨‍🏫 **Teaching**: I regularly share my knowledge through tech blogs, mentor junior developers, and engage with tech students.
+- 💬 **Ask Me About**: Backend development, RESTful APIs, project architecture, and problem-solving techniques.
+- 🌎 **Open to Collaborate**: I love connecting with fellow developers on meaningful projects!
+- 📄 **Download My Resume**: [Resume Link](#) (Add your actual resume link here)
 
+---
+
+### 💼 Experience
+
+- **Python Developer** at Mala Foundation  
+  *December 2022 - Present*
+  
+- **Frontend Developer**  
+  *July 2021 - December 2022*
+
+- **Internship 1: C-DAC, Jaipur**  
+  *May 2016 - July 2016*  
+  Learned PHP and MySQL, built dynamic websites.
+
+- **Internship 2: Vanar Clothing Brand**  
+  *January 2019 - June 2019*  
+  Developed an e-commerce website.
+
+### 🎓 Certifications
+
+- **Python Data Science** - Udemy
+- **PHP & MySQL** - IIT Mumbai
+- **Python** - Coursera
+- **Problem Solving** - HackerRank
 ---
 
 ### 🚀 Projects
