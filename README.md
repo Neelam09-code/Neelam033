@@ -18,6 +18,37 @@ Welcome to my GitHub profile! I’m passionate about building innovative and eff
 
 ---
 
+### 🚀 Projects
+
+Here are some of my key projects where I've applied my skills in **Python**, **Django**, **AI**, and **full-stack development**:
+
+- **Employee Management Software** 🧑‍💼 | **Tech Stack:** Python, Django  
+   Designed a streamlined employee management system to simplify HR workflows, track attendance, and manage employee records.
+
+- **E-commerce Website** 🛒 | **Tech Stack:** HTML, CSS, JavaScript, React, Node.js  
+   Developed a fully functional e-commerce platform with seamless product browsing, cart management, and secure checkout features.
+
+- **AI Chatbot** 🤖 | **Tech Stack:** Python, Django, NLP  
+   Built an AI-driven chatbot to assist users with real-time responses, leveraging natural language processing and machine learning techniques.
+
+- **Student Management System** 🎓 | **Tech Stack:** Python, Django  
+   Created a robust student management application to help educational institutions manage student data, attendance, and performance.
+
+- **Fasionica Website** 🌐 | **[Visit Site](https://fasionica.com/)** | **Tech Stack:** HTML, CSS, JavaScript, React  
+   Developed the official website for Fasionica, enhancing user experience with an attractive, responsive design and seamless navigation.
+
+- **Library Management System** 📚 | **Tech Stack:** Python, Django  
+   Built a complete library management system to streamline book tracking, lending, and user management for libraries of any size.
+
+- **LLM Project for E-Learning** 📘 | **Tech Stack:** Python, Django, Machine Learning  
+   Currently working on a project to build a **Large Language Model (LLM)** tailored for e-learning. This project aims to create a supportive AI environment for **NGO students** by providing personalized learning assistance.
+
+---
+
+Each of these projects has provided me with valuable experience in both frontend and backend development, enabling me to create user-friendly and scalable applications.
+
+---
+
 ### 🛠️ Tech Stack
 
 | Language         | Frameworks & Libraries                     | Tools & Platforms               |
