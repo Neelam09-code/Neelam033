@@ -83,6 +83,12 @@ I love writing tutorials and sharing my knowledge. Here are some recent articles
 - [Why Python is the Best Choice for Backend Development](https://medium.com/...)
 
 ---
+### 📝 Check Out My Daily Blog Posts!
+
+Feel free to visit my blog on Medium for insights, tutorials, and thoughts on tech and development:
+
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@yaduvanshineelam09)
+---
 
 ### 📬 How to Reach Me
 
