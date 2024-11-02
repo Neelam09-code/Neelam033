@@ -101,3 +101,11 @@ Let's connect! Feel free to reach out for collaborations, discussions, or just t
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=NeelamYadav&color=blue&style=flat-square)
+
+---
+### 🎉 Thanks for Visiting! 🙌
+
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+GitHub+profile!+😊" alt="Thanks for visiting my GitHub profile!">
+</div>
+---
